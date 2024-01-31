@@ -1,1 +1,0 @@
-This folder contains all the necessary sql queries to extract the required data from various tables.
